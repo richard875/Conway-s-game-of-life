@@ -1,0 +1,12 @@
+.bottom {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+
+.bottom h5 {
+    margin-bottom: 10px;
+}
